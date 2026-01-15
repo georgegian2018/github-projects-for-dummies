@@ -47,4 +47,9 @@ Repo → **Code** → **Download ZIP**
 Use git:
 ```bash
 git clone https://github.com/ORG/REPO.git
+```
 
+---
+
+⬅️ **Previous:** [Archive-Delete-Backup](04-Archive-Delete-Backup.md)  
+➡️ **Next:** [Table of Contents](TOC.md)
