@@ -4,6 +4,18 @@
 
 *By Georgios Giannakopoulos · January 2026*
 
+---
+## Who This Tutorial Is For
+
+This tutorial is written for **absolute beginners** who find GitHub Projects confusing or overwhelming.
+
+It is especially useful if you:
+- Have a **personal GitHub account** and are not sure when to use organizations
+- Don’t understand the difference between **repositories, projects, and issues**
+- Want to **organize research, learning, or side projects**
+- Prefer **step-by-step explanations** instead of abstract documentation
+
+No prior knowledge of GitHub Projects is assumed.
 
 ---
 
