@@ -47,3 +47,7 @@ That is the “link”.
 ✅ Next: avoid the biggest trap (Org vs Personal projects)  
 `docs/03-Org-vs-Personal-Projects.md`
 
+---
+
+⬅️ **Previous:** [Concepts](01-Concepts.md)  
+➡️ **Next:** [Organizations vs Personal Projects](03-Org-vs-Personal-Projects.md)
