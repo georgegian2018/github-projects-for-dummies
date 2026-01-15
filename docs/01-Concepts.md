@@ -36,9 +36,6 @@ A **Project** is a planning tool (like Trello/Jira-lite):
 
 A project does NOT contain repositories.
 
-### The key sentence
-> Projects organize **work**. Repositories store **content**.
-
 > 💡 **Key sentence:**  
 > **Projects organize work. Repositories store content.**
 
