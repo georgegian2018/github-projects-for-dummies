@@ -39,9 +39,43 @@ A project does NOT contain repositories.
 ### The key sentence
 > Projects organize **work**. Repositories store **content**.
 
-## Correct hierarchy (memorize this)
 > 💡 **Key sentence:**  
 > **Projects organize work. Repositories store content.**
+
+
+## Correct hierarchy (memorize this)
+
+```text
+Personal GitHub Account
+└── Organization
+├── Repositories
+│ ├── repo-1
+│ ├── repo-2
+│ └── repo-3
+└── Projects
+├── Project A
+└── Project B
+```
+
+This hierarchy means:
+
+- Your **personal account** is just how you log in.
+- An **organization** is a container that groups related work.
+- **Repositories** store files, code, papers, figures, and data.
+- **Projects** track work using tasks and issues.
+
+Repositories and Projects live **side by side** inside an organization.
+Projects do **not** contain repositories.
+
+### Important rule
+
+- ✅ Use **Organizations** to group repositories.
+- ❌ Do **not** expect Projects to act like folders for repositories.
+
+> 📌 **Think of it this way:**  
+> Repositories hold *things*.  
+> Projects track *work*.
+
 
 
 ---
