@@ -28,6 +28,20 @@ No prior knowledge of GitHub Projects is assumed.
 5. Archive, Delete, and Backup Safely
 
 ---
+## License
+
+This tutorial is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+You are free to:
+- Share — copy and redistribute the material
+- Adapt — remix, transform, and build upon the material
+
+Under the following condition:
+- **Attribution** — You must give appropriate credit and indicate if changes were made.
+
+This makes the tutorial reusable while ensuring proper credit.
+
+---
 
 # 1. Home
 
@@ -256,4 +270,19 @@ Use git:
 ```bash
 git clone https://github.com/ORG/REPO.git
 ```
+---
+## Downloads
+
+You can download this tutorial in multiple formats:
+
+- 📄 **PDF** – for printing or offline reading  
+- 📝 **Word (.docx)** – for editing or annotations  
+- 📘 **Markdown (.md)** – for reuse or contribution  
+
+Files are available in the repository’s `exports/` folder.
+
+- 📄 [PDF version](exports/github-projects-for-dummies.pdf)
+- 📝 [Word version](exports/github-projects-for-dummies.docx)
+- 📘 [Markdown version](exports/github-projects-for-dummies.md)
+
 
