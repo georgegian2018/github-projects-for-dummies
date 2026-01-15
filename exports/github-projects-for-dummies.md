@@ -4,18 +4,6 @@
 
 *By Georgios Giannakopoulos · January 2026*
 
----
-## Who This Tutorial Is For
-
-This tutorial is written for **absolute beginners** who find GitHub Projects confusing or overwhelming.
-
-It is especially useful if you:
-- Have a **personal GitHub account** and are not sure when to use organizations
-- Don’t understand the difference between **repositories, projects, and issues**
-- Want to **organize research, learning, or side projects**
-- Prefer **step-by-step explanations** instead of abstract documentation
-
-No prior knowledge of GitHub Projects is assumed.
 
 ---
 
@@ -42,6 +30,7 @@ If you are confused by Projects, it’s usually because of these problems:
 - **Organization** = container that can own repositories and projects
 - **Repository** = where files/code/papers live
 - **Project** = a task board that tracks work (cards), often using Issues
+
 
 ---
 
@@ -255,7 +244,9 @@ Use git:
 ```bash
 git clone https://github.com/ORG/REPO.git
 ```
+
 ---
+
 ## Downloads
 
 You can download this tutorial in multiple formats:
@@ -267,6 +258,7 @@ You can download this tutorial in multiple formats:
 All files are available in the repository’s `exports/` folder.
 
 ---
+
 ## License
 
 This tutorial is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
@@ -278,6 +270,6 @@ You are free to:
 Under the following condition:
 - **Attribution** — You must give appropriate credit and indicate if changes were made.
 
-This makes the tutorial reusable while ensuring proper credit.
+---
 
-
+🏁 **End of tutorial**
