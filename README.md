@@ -24,3 +24,27 @@ This guide is written for people who:
 - Absolute beginners
 
 If GitHub ever feels confusing, this repository is for you.
+
+---
+
+# GitHub Projects for Dummies
+
+A beginner-friendly tutorial that finally explains GitHub **Organizations**, **Repositories**, and **Projects** in plain English.
+
+## Start here
+- 👉 **Home:** `docs/00-Home.md`
+- Concepts: `docs/01-Concepts.md`
+- Linking Projects to Repos: `docs/02-Projects-Linking.md`
+- Org vs Personal Projects confusion: `docs/03-Org-vs-Personal-Projects.md`
+- Archive/Delete/Backup safely: `docs/04-Archive-Delete-Backup.md`
+
+## Who this is for
+- Absolute beginners
+- Researchers and engineers organizing work
+- Anyone who finds GitHub documentation too vague
+
+## What you will learn
+- Why Projects are **not folders**
+- How to correctly structure: **Org → Repos + Projects**
+- How Projects “connect” to repos (spoiler: via **Issues**)
+- How to safely archive or delete things
