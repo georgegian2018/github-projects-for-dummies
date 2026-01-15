@@ -12,9 +12,6 @@ If you are confused by Projects, it’s usually because of these problems:
 - **Repository** = where files/code/papers live
 - **Project** = a task board that tracks work (cards), often using Issues
 
-✅ Next: read **Concepts**  
-`docs/01-Concepts.md`
-
 ---
 
 ➡️ **Next:** [Core Concepts](01-Concepts.md)
