@@ -36,3 +36,7 @@ If the org is for research:
 ✅ Next: learn how to safely close/archive/delete and backup  
 `docs/04-Archive-Delete-Backup.md`
 
+---
+
+⬅️ **Previous:** [How Projects Link to Repositories](02-Projects-Linking.md)
+➡️ **Next:** [Archive-Delete-Backup](04-Archive-Delete-Backup.md)  
