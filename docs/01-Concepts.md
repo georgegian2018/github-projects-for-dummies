@@ -40,6 +40,8 @@ A project does NOT contain repositories.
 > Projects organize **work**. Repositories store **content**.
 
 ## Correct hierarchy (memorize this)
+> 💡 **Key sentence:**  
+> **Projects organize work. Repositories store content.**
 
 
 ---
