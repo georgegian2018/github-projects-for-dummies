@@ -40,3 +40,9 @@ A project does NOT contain repositories.
 > Projects organize **work**. Repositories store **content**.
 
 ## Correct hierarchy (memorize this)
+
+
+---
+
+⬅️ **Previous:** [Home](00-Home.md)  
+➡️ **Next:** [How Projects Link to Repositories](02-Projects-Linking.md)
