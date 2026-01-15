@@ -1,5 +1,2 @@
-# Example Repository
+# Github-projects-for-dummies
 
-This is a sample repo, hellow coders!
-
-This is a second change.
