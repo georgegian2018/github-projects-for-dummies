@@ -49,5 +49,4 @@ That is the “link”.
 
 ---
 
-⬅️ **Previous:** [Concepts](01-Concepts.md)  
-➡️ **Next:** [Organizations vs Personal Projects](03-Org-vs-Personal-Projects.md)
+⬅️ **Previous:** [Concepts](01-Concepts.md)  ➡️ **Next:** [Organizations vs Personal Projects](03-Org-vs-Personal-Projects.md)
