@@ -51,6 +51,5 @@ git clone https://github.com/ORG/REPO.git
 
 ---
 
-⬅️ **Previous:** [Org vs Personal Projects](03-Org-vs-Personal-Projects.md)  
-🏁 **End of tutorial** · [Back to Table of Contents](TOC.md)
+⬅️ **Previous:** [Org vs Personal Projects](03-Org-vs-Personal-Projects.md) 🏁 **End of tutorial** · [Back to Table of Contents](TOC.md)
 
