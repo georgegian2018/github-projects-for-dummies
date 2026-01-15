@@ -15,3 +15,6 @@ If you are confused by Projects, it’s usually because of these problems:
 ✅ Next: read **Concepts**  
 `docs/01-Concepts.md`
 
+---
+
+➡️ **Next:** [Core Concepts](01-Concepts.md)
