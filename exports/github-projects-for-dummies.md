@@ -1,7 +1,10 @@
----
+
 title: GitHub Projects for Dummies
+
 subtitle: A beginner-friendly guide to GitHub Organizations, Repositories, and Projects
+
 author: Georgios Giannakopoulos
+
 date: January 2026
 
 ---
