@@ -28,20 +28,6 @@ No prior knowledge of GitHub Projects is assumed.
 5. Archive, Delete, and Backup Safely
 
 ---
-## License
-
-This tutorial is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
-
-You are free to:
-- Share — copy and redistribute the material
-- Adapt — remix, transform, and build upon the material
-
-Under the following condition:
-- **Attribution** — You must give appropriate credit and indicate if changes were made.
-
-This makes the tutorial reusable while ensuring proper credit.
-
----
 
 # 1. Home
 
@@ -56,7 +42,6 @@ If you are confused by Projects, it’s usually because of these problems:
 - **Organization** = container that can own repositories and projects
 - **Repository** = where files/code/papers live
 - **Project** = a task board that tracks work (cards), often using Issues
-
 
 ---
 
@@ -281,5 +266,18 @@ You can download this tutorial in multiple formats:
 
 All files are available in the repository’s `exports/` folder.
 
+---
+## License
+
+This tutorial is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+You are free to:
+- Share — copy and redistribute the material
+- Adapt — remix, transform, and build upon the material
+
+Under the following condition:
+- **Attribution** — You must give appropriate credit and indicate if changes were made.
+
+This makes the tutorial reusable while ensuring proper credit.
 
 
