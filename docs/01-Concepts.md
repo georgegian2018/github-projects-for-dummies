@@ -73,7 +73,6 @@ Projects do **not** contain repositories.
 > Repositories hold *things*.  
 > Projects track *work*.
 
-
-
 ---
+
 ⬅️ **Previous:** [Home](00-Home.md)  ➡️ **Next:** [How Projects Link to Repositories](02-Projects-Linking.md)
