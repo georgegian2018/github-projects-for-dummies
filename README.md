@@ -48,3 +48,19 @@ A beginner-friendly tutorial that finally explains GitHub **Organizations**, **R
 - How to correctly structure: **Org → Repos + Projects**
 - How Projects “connect” to repos (spoiler: via **Issues**)
 - How to safely archive or delete things
+
+---
+## Downloads
+
+You can download this tutorial in multiple formats:
+
+- 📄 **PDF** – for printing or offline reading  
+- 📝 **Word (.docx)** – for editing or annotations  
+- 📘 **Markdown (.md)** – for reuse or contribution  
+
+Files are available in the repository’s `exports/` folder.
+
+- 📄 [PDF version](exports/github-projects-for-dummies.pdf)
+- 📝 [Word version](exports/github-projects-for-dummies.docx)
+- 📘 [Markdown version](exports/github-projects-for-dummies.md)
+
