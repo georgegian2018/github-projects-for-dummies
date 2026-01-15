@@ -54,13 +54,10 @@ A beginner-friendly tutorial that finally explains GitHub **Organizations**, **R
 
 You can download this tutorial in multiple formats:
 
-- 📄 **PDF** – for printing or offline reading  
-- 📝 **Word (.docx)** – for editing or annotations  
-- 📘 **Markdown (.md)** – for reuse or contribution  
+- 📄 **[PDF version](exports/github-projects-for-dummies.pdf)** — for printing or offline reading
+- 📝 **[Word (.docx) version](exports/github-projects-for-dummies.docx)** — for editing or annotations
+- 📘 **[Markdown (.md) version](exports/github-projects-for-dummies.md)** — for reuse or contribution
 
-Files are available in the repository’s `exports/` folder.
+All files are available in the repository’s `exports/` folder.
 
-- 📄 [PDF version](exports/github-projects-for-dummies.pdf)
-- 📝 [Word version](exports/github-projects-for-dummies.docx)
-- 📘 [Markdown version](exports/github-projects-for-dummies.md)
 
