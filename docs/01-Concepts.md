@@ -43,5 +43,4 @@ A project does NOT contain repositories.
 
 
 ---
-⬅️ **Previous:** [Home](00-Home.md)  
-➡️ **Next:** [How Projects Link to Repositories](02-Projects-Linking.md)
+⬅️ **Previous:** [Home](00-Home.md)  ➡️ **Next:** [How Projects Link to Repositories](02-Projects-Linking.md)
