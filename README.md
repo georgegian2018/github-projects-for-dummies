@@ -1,5 +1,15 @@
 # GitHub Projects for Dummies
 
+![Markdown](https://img.shields.io/badge/Format-Markdown-blueviolet)
+![Format](https://img.shields.io/badge/Format-Markdown-blue.svg)
+![Templates](https://img.shields.io/badge/Templates-Available-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
+![Type](https://img.shields.io/badge/Type-Professional%20Wiki-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
+![Use](https://img.shields.io/badge/Use-Non--Commercial%20Only-critical)
+
 A beginner-friendly, no-assumptions tutorial explaining how GitHub
 **Organizations**, **Repositories**, and **Projects** actually work.
 
