@@ -36,7 +36,7 @@ This guide is written for people who:
 If GitHub ever feels confusing, this repository is for you.
 
 ---
-└──
+
 ## 📁 Repository Contents
 
 ```text
