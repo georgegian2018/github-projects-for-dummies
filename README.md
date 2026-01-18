@@ -43,20 +43,17 @@ If GitHub ever feels confusing, this repository is for you.
 repo
 |
 ├── docs
-|   ├── .gitkeep
-│   ├── 00-Home.md
+|   ├── 00-Home.md
 │   ├── 01-Concepts.md
 ├   ├── 02–Projects-Linking.md
 │   ├── 03-Org-vs-Personal-Projects.md
 │   ├── 04-Archive-Delete-Backup.md
 │   └── TOC.md
-├── exports 
-│   ├── .gitkeep
-│   ├── github-projects-for-dummies.docx
-│   ├── github-projects-for-dummies.md
-│   └── github-projects-for-dummies.pdf
-├── README.md
-└── License.md
+└── exports    
+   ├── github-projects-for-dummies.docx
+   ├── github-projects-for-dummies.md
+   └── github-projects-for-dummies.pdf
+
 
 ```
 ---
