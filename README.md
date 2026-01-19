@@ -1,8 +1,9 @@
 # GitHub Projects for Dummies
 
 ![Markdown](https://img.shields.io/badge/Format-Markdown-blueviolet)
-![Format](https://img.shields.io/badge/Microsoft-Word-blue.svg)
-![Format](https://img.shields.io/badge/Portable-Document-Format-blueviolet.svg)
+![Format](https://img.shields.io/badge/Format-Microsoft%20Document%20Word-blue) 
+![Format](https://img.shields.io/badge/Format-PDF--Portable%20Document%20Format-red)
+![Format](https://img.shields.io/badge/Format-MarkDown%20Document-brightgreen)
 ![Templates](https://img.shields.io/badge/Templates-Available-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
